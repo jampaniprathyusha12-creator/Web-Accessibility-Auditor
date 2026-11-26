@@ -1,0 +1,8 @@
+Website,Scan Date,Issue,Element,Severity
+http://127.0.0.1:8000/test_site.html?,2026-11-26 23:09:55,Missing image alternative text,Image,High
+http://127.0.0.1:8000/test_site.html?,2026-11-26 23:09:55,Form field missing accessible label,Form control,High
+http://127.0.0.1:8000/test_site.html?,2026-11-26 23:09:55,Missing page title,Page,Medium
+http://127.0.0.1:8000/test_site.html?,2026-11-26 23:09:55,Missing main heading (H1),Heading,Medium
+http://127.0.0.1:8000/test_site.html?,2026-11-26 23:09:55,Missing HTML language attribute,HTML,Medium
+http://127.0.0.1:8000/test_site.html?,2026-11-26 23:09:55,Link has no accessible name,Link,High
+http://127.0.0.1:8000/test_site.html?,2026-11-26 23:09:55,Button has no accessible name,Button,High
